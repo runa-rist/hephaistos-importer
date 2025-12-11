@@ -85,6 +85,6 @@ Bug reports and feature requests are very welcome. How do you use the plugin? Ca
 
 [Github](https://github.com/Skallaturi/hephaistos-importer)
 
-[E-mail](mailto:tore@saederup.net)
+[E-mail](mailto:runa@saederup.net)
 
-Or tag @Skallaturi on the Obsidian Discord, Obsidian TTRPG Discord, or Starfinder Discord
+Or tag @Runa.rist on the Obsidian Discord, Obsidian TTRPG Discord, or Starfinder Discord
