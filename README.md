@@ -83,7 +83,7 @@ I want to keep this plugin compatible with other relevant Starfinder projects an
 
 Bug reports and feature requests are very welcome. How do you use the plugin? Can I make it better for you?
 
-[Github](https://github.com/Skallaturi/hephaistos-importer)
+[Github](https://github.com/runa-rist/hephaistos-importer)
 
 [E-mail](mailto:runa@saederup.net)
 
