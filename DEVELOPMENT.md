@@ -14,6 +14,10 @@ From https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Gui
 
 # Version history
 
+## Version 2.2.2
+
+Fixed repo location error.
+
 ## Version 2.1.1
 
 Moved repository.
