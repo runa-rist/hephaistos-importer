@@ -161,7 +161,7 @@ class HephaistosImporterSettingTab extends PluginSettingTab {
 			containerEl.createEl("br"),
 			"A sample template can be found ",
 			containerEl.createEl("a", {
-				href: "https://github.com/Skallaturi/hephaistos-importer/blob/master/assets/starfinder-character-layout.json",
+				href: "https://github.com/runa-rist/hephaistos-importer/blob/master/assets/starfinder-character-layout.json",
 				text: "here",
 			}),
 			"."
